@@ -1,0 +1,678 @@
+{
+   "HorizonLayout": [
+      {
+         "layout": "logo",
+         "showMenu": true,
+         "showSearch": true,
+         "showLogo": true
+      },
+      {
+         "layout": "category",
+         "type": "icon",
+         "wrap": false,
+         "size": 1.5,
+         "radius": 10,
+         "items": [
+            {
+               "name": "ألعاب و شخصيات الأكشن",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjQ3NTU3MQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Action_Figures_Boys_Toys_280x.jpg",
+               "colors": [
+                  "#3CC2BF",
+                  "#3CC2BF"
+               ],
+               "originalColor": false
+            },
+            {
+               "name": "الدمى و الإكسسوارات",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjY3MjE3OQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Fashion_Dolls_Girls_toys_456x.jpg?v=1598799754",
+               "colors": [
+                  "#3E6AB5",
+                  "#3E6AB5"
+               ]
+            },
+            {
+               "name": "الدراجات والعاب الركوب",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2ODg3NjA4Mw==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Bikes_Trikes_Ride-Ons_560x.jpg?v=1598798814",
+               "colors": [
+                  "#53A2CC",
+                  "#53A2CC"
+               ]
+            },
+            {
+               "name": "الفنون و الحرف اليدوية",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjQ0MjgwMw==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/art_and_crafts_560x.jpg?v=1622641090",
+               "colors": [
+                  "#53688A",
+                  "#53688A"
+               ]
+            },
+            {
+               "name": " العاب البناء والتشييد ",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc1OTc5OTM0Nw==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Building_and_Construction_Toys_84a63ea2-f631-4f2d-8b8b-e770cf00be09_560x.jpg?v=1598799222",
+               "colors": [
+                  "#43506A",
+                  "#43506A"
+               ]
+            },
+            {
+               "name": "العاب الأطفال",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjU0MTEwNw==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/babies_toys_456x.jpg?v=1622641265",
+               "colors": [
+                  "#12B58C",
+                  "#12B58C"
+               ]
+            },
+            {
+               "name": "الألعاب التعليمية",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjczNzcxNQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Educational_Toys_560x.jpg?v=1622643676",
+               "colors": [
+                  "#12B58C",
+                  "#12B58C"
+               ]
+            },
+            {
+               "name": "الالعاب والألغاز والاحجيات",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2MDE1OTc5NQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Games_Puzzles_Educational_toys_560x.jpg?v=1598798589",
+               "colors": [
+                  "#12B58C",
+                  "#12B58C"
+               ]
+            },
+            {
+               "name": "الرياضة والأنشطة الخارجية",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjgwMzI1MQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Sports_Outdoor_d65ae682-1123-4a03-91a1-1ae93bde5aa6_560x.jpg?v=1622643855",
+               "colors": [
+                  "#12B58C",
+                  "#12B58C"
+               ]
+            },
+            {
+               "name": "الألعاب المحشوة",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjgzNjAxOQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Soft_Toys_560x.jpg?v=1622643948",
+               "colors": [
+                  "#12B58C",
+                  "#12B58C"
+               ]
+            }
+         ]
+      },
+      {
+         "layout": "bannerImage",
+         "isSlider": true,
+         "autoPlay": true,
+         "showNumber": false,
+         "design": "default",
+         "showBackGround": true,
+         "radius": 2,
+         "items": [
+            {
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzcwMzE0MzQ3NQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/homepage-web-banner_x1024.jpg",
+               "padding": 5
+            },
+            {
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzcwMzE0MzQ3NQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Hasbro_board_gaming_banner_x1024.jpg",
+               "padding": 5
+            },
+            {
+               "product": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzcwMzE0MzQ3NQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/TOYS4ME-Special-Prices_web_banner_x1024.jpg",
+               "padding": 5
+            }
+         ]
+      },
+      {
+         "layout": "bannerImage",
+         "title": {
+            "title": "Shop By Gender",
+            "fontWeight": 100,
+            "showSearch": false,
+            "fontSize": 18,
+            "padding": 10
+         },
+         "items": [
+            {
+               "name": "العاب البنات",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzcwMzE0MzQ3NQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/t/10/assets/pf-8ec94d26--Toys4MeTabGirls700x350px.jpg?v=1591695366",
+               "padding": 5
+            },
+            {
+               "name": "العاب الأولاد",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzcwMzExMDcwNw==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/t/10/assets/pf-838ec94d--Toys4MeTabBoys700x350px.jpg?v=1591695252",
+               "padding": 5
+            }
+         ]
+      },
+      {
+         "layout": "category",
+         "title": "Shop By Age",
+         "type": "image",
+         "wrap": true,
+         "radius": 10,
+         "border": 0,
+         "marginRight": 0.0,
+         "marginLeft": 0.0,
+         "itemSize": {
+            "width": 280.0,
+            "height": 80.0
+         },
+         "items": [
+            {
+               "name": "مولود جديد والرضع (0-12 شهرا)",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODAyNzQ4MTEzOQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/appnewborn-ar.png?v=1625138603"
+            },
+            {
+               "name": "طفل (1-2 سنوات)",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODAyNzg3NDM1NQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/apptoddler-ar.png?v=1625138603"
+            },
+            {
+               "name": "ما قبل المدرسة (2-4 سنوات)",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODAyNzY0NDk3OQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/apppreschool-ar.png?v=1625138603"
+            },
+            {
+               "name": "العاب ما قبل المراهقة (4-12 عاما)",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODAyNzc3NjA1MQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/apppreteen-ar.png?v=1625138603"
+            },
+            {
+               "name": "في سن المراهقة (12 سنة)",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODAyNzg0MTU4Nw==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/appteen-ar.png?v=1625138603"
+            }
+         ]
+      },
+      {
+         "name": "حمامات السباحة والإكسسوارات",
+         "image": "",
+         "layout": "threeColumn",
+         "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1OTMxMTM5NjkxNQ==",
+         "isSnapping": true
+      },
+      {
+         "name": "Recent View",
+         "layout": "recentView"
+      },
+      {
+         "layout": "category",
+         "title": "Shop By Brands",
+         "type": "image",
+         "wrap": false,
+         "size": 1.5,
+         "radius": 10,
+         "items": [
+            {
+               "name": "بيست واي",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1OTMxMTI5ODYxMQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/bestway.jpg?v=12312"
+            },
+            {
+               "name": "باربي",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODE2OTAxMQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Barbie_Dolls_large.jpg?v=1607332250"
+            },
+            {
+               "name": "كيل تويز",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODg4OTkwNw==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/keel-toys.jpg?v=12312"
+            },
+            {
+               "name": "هاسبرو للألعاب",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODgyNDM3MQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Hasbro_Gaming_large.jpg?v=1607331748"
+            },
+            {
+               "name": "ليغو",
+               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODk4ODIxMQ==",
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/lego.jpg?v=12312"
+            }
+         ]
+      }
+   ],
+   "Setting": {
+      "MainColor": "#36b2d8",
+      "ProductListLayout": "list",
+      "StickyHeader": false
+   },
+   "TabBar": [
+      {
+         "layout": "home",
+         "icon": "home",
+         "name": "Home",
+         "pos": 100,
+         "fontFamily": "CupertinoIcons",
+         "key": "p1q235ba14"
+      },
+      {
+         "pos": 200,
+         "layout": "category",
+         "icon": "rectangle_grid_1x2",
+         "fontFamily": "CupertinoIcons",
+         "categoryLayout": "sideMenuWithSub",
+         "key": "hwu0rkrizt"
+      },
+      {
+         "pos": 400,
+         "icon": "bag",
+         "layout": "cart",
+         "categoryLayout": "cart",
+         "key": "a2xts0oou6",
+         "fontFamily": "CupertinoIcons"
+      },
+      {
+         "layout": "profile",
+         "fontFamily": "CupertinoIcons",
+         "pos": 500,
+         "key": "69jw5yx12d",
+         "icon": "person"
+      }
+   ],
+   "searchSuggestion": [
+      "boy toy",
+      "lego",
+      "barbie"
+   ],
+   "OnBoarding": {
+      "data": [
+         {
+            "title": "Welcome to FluxStore",
+            "image": "assets/images/fogg-delivery-1.png",
+            "desc": "Fluxstore is on the way to serve you. ",
+            "background": "#FFF3F2"
+         },
+         {
+            "title": "Connect Surrounding World",
+            "image": "assets/images/fogg-uploading-1.png",
+            "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+            "background": "#F2FFFC"
+         },
+         {
+            "title": "Let's Get Started",
+            "image": "fogg-order-completed.png",
+            "desc": "Waiting no more, let's see what we get!",
+            "background": "#F9F2FF"
+         }
+      ]
+   },
+   "CollectionList": [
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjQ0MjgwMw==",
+         "name": "الفنون و الحرف اليدوية",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjk2NzA5MQ==",
+               "name": "الطين و العجين",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjk5OTg1OQ==",
+               "name": "مجموعات الحرف",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzAzMjYyNw==",
+               "name": "العاب - افعلها بنفسك",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzA2NTM5NQ==",
+               "name": "الرسم و التلوين",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjQ3NTU3MQ==",
+         "name": "ألعاب و شخصيات الأكشن",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzA5ODE2Mw==",
+               "name": "شخصيات الأكشن",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzEzMDkzMQ==",
+               "name": "ألعاب التظاهر - الأكشن",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTQ5ODY3NQ==",
+               "name": "العاب القاذفات والبنادق",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc1OTc5OTM0Nw==",
+         "name": " العاب البناء والتشييد ",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODk4ODIxMQ==",
+               "name": "ليغو",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODU2MjIyNw==",
+               "name": "ايكوفير",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzE2MzY5OQ==",
+               "name": "سلوبان",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQyMTg1ODg2Nw==",
+               "name": "Mega Blocks",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2ODg3NjA4Mw==",
+         "name": "الدراجات والعاب الركوب",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzE5NjQ2Nw==",
+               "name": "دراجات و دراجات ثلاثية",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzIyOTIzNQ==",
+               "name": "السكوترات الكهربائية",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzI2MjAwMw==",
+               "name": "عربات الركوب",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzI5NDc3MQ==",
+               "name": "عربات الركوب مع بطاريات",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzMyNzUzOQ==",
+               "name": "السكوترات",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjU0MTEwNw==",
+         "name": "العاب الأطفال",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzQyNTg0Mw==",
+               "name": "العاب الموسيقى و الأضواء",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQyNzMzMTEyMw==",
+               "name": "مركبات الأطفال",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzQ5MTM3OQ==",
+               "name": "العاب الدفع و السحب",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzUyNDE0Nw==",
+               "name": "الخشاخيش و العضاضات",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjU3Mzg3NQ==",
+         "name": "الجمع و الاقتناء",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzU4OTY4Mw==",
+               "name": "جمع الحيوانات و الحيوانات الاليفة التفاعلية",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzY1NTIxOQ==",
+               "name": "العاب الجمع - الشخصيات",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzY4Nzk4Nw==",
+               "name": "العاب الجمع - المجموعات",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzcyMDc1NQ==",
+               "name": "العاب الجمع - المفاجئات",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTUzMTQ0Mw==",
+         "name": "السيارات والمركبات",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzE5NjQ2Nw==",
+               "name": "دراجات و دراجات ثلاثية",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzIyOTIzNQ==",
+               "name": "السكوترات الكهربائية",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzI2MjAwMw==",
+               "name": "عربات الركوب",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzI5NDc3MQ==",
+               "name": "عربات الركوب مع بطاريات",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzMyNzUzOQ==",
+               "name": "السكوترات",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjY3MjE3OQ==",
+         "name": "الدمى و الإكسسوارات",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2MDMyMzYzNQ==",
+               "name": "دمى الاطفال",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTY1NDA2Nw==",
+               "name": "بيوت الدمى",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTY4NjgzNQ==",
+               "name": "ملابس الدمى و الاإكسسوارات",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTY2MjUxNQ==",
+               "name": "دمى الموضة",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjcwNDk0Nw==",
+         "name": "التنكر والعاب التظاهر",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTcxOTYwMw==",
+               "name": "الأزياء التنكرية",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTc1MjM3MQ==",
+               "name": "مجموعات المطبخ",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTc4NTEzOQ==",
+               "name": "مجموعات لعب الأدوار",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjczNzcxNQ==",
+         "name": "الألعاب التعليمية",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTgxNzkwNw==",
+               "name": "الألعاب التعليمية",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTg1MDY3NQ==",
+               "name": "الألعاب الإلكترونية",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTg4MzQ0Mw==",
+               "name": "ألعاب العلوم و التكنلوجيا و المعلومات",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2MDE1OTc5NQ==",
+         "name": "الالعاب والألغاز والاحجيات",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTkxNjIxMQ==",
+               "name": "العاب النشاط",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1OTU0MDY3NDYxMQ==",
+               "name": "ألعاب الطاولة",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTk0ODk3OQ==",
+               "name": "أوراق اللعب",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1OTU0MDQ0NTIzNQ==",
+               "name": "الألغاز",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjgwMzI1MQ==",
+         "name": "الرياضة والأنشطة الخارجية",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTk4MTc0Nw==",
+               "name": "حمامات السباحة المنفوخة",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTA3MjY5MQ==",
+               "name": "الالعاب القابلة للنفخ",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2ODk3NDM4Nw==",
+               "name": "ملاعب الاطفال",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2ODk0MTYxOQ==",
+               "name": "بيوت اللعب",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTAwNzE1NQ==",
+               "name": "اراجيح و زحاليق",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNjAxNDUxNQ==",
+               "name": "حمامات السباحة",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTEzODIyNw==",
+               "name": "الترامبولين",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNjA0NzI4Mw==",
+               "name": "الحدائق المائية",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjg2ODc4Nw==",
+         "name": "ألعاب الكبار و البالغين",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNjA4MDA1MQ==",
+               "name": "أحجيات البالغين",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNjExMjgxOQ==",
+               "name": "سيارات التحكم عن بعد للكبار",
+               "status": 1
+            },
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNjE3ODM1NQ==",
+               "name": "ليجو للكبار",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjgzNjAxOQ==",
+         "name": "الألعاب المحشوة",
+         "subCollection": [
+            {
+               "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NzY2ODE1NDQxOQ==",
+               "name": "الألعاب الخشبية",
+               "status": 1
+            }
+         ]
+      },
+      {
+         "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2MjYwNzg5MDQ4Mw==",
+         "name": "الاكسوارات و البطاريات",
+         "status": 1
+      }
+   ]
+}
