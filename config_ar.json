@@ -247,6 +247,7 @@
    "Setting": {
       "MainColor": "#36b2d8",
       "ProductListLayout": "list",
+      "SaleText": "أسعار خاصة",
       "StickyHeader": false
    },
    "TabBar": [

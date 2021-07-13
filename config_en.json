@@ -253,6 +253,7 @@
    "Setting": {
       "MainColor": "#36b2d8",
       "ProductListLayout": "list",
+      "SaleText": "Special Prices",
       "StickyHeader": false
    },
    "TabBar": [
@@ -271,6 +272,14 @@
          "fontFamily": "CupertinoIcons",
          "categoryLayout": "sideMenuWithSub",
          "key": "hwu0rkrizt"
+      },
+      {
+         "key": "2reihs4qzc",
+         "icon": "search",
+         "layout": "search",
+         "fontFamily": "CupertinoIcons",
+         "pos": 300,
+         "size": 24
       },
       {
          "pos": 400,
