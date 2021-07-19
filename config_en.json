@@ -121,11 +121,6 @@
                "padding": 5
             },
             {
-               "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzcwMzE0MzQ3NQ==",
-               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Hasbro_board_gaming_banner_x1024.jpg",
-               "padding": 5
-            },
-            {
                "product": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzcwMzE0MzQ3NQ==",
                "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/TOYS4ME-Special-Prices_web_banner_x1024.jpg",
                "padding": 5
@@ -239,7 +234,7 @@
                "name": "Hasbro Gaming",
                "tag": "1",
                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODgyNDM3MQ==",
-               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Hasbro_Gaming_large.jpg?v=1607331748"
+               "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/hasbro-gaming.jpg?v=12312"
             },
             {
                "name": "Lego",
