@@ -15,7 +15,7 @@
       "items": [
         {
           "name": "Action Toys & Figures",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjQ3NTU3MQ==",
+          "category": "action-toys-figures",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Action_Figures_Boys_Toys_280x.jpg",
           "colors": [
             "#3CC2BF",
@@ -25,7 +25,7 @@
         },
         {
           "name": "Dolls & Accessories",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjY3MjE3OQ==",
+          "category": "dolls-accessories",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Fashion_Dolls_Girls_toys_456x.jpg?v=1598799754",
           "colors": [
             "#3E6AB5",
@@ -34,7 +34,7 @@
         },
         {
           "name": "Bikes, Trikes & Ride-Ons",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2ODg3NjA4Mw==",
+          "category": "bikes-trikes-ride-ons",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Bikes_Trikes_Ride-Ons_560x.jpg?v=1598798814",
           "colors": [
             "#53A2CC",
@@ -43,7 +43,7 @@
         },
         {
           "name": "Arts & Crafts",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjQ0MjgwMw==",
+          "category": "arts-crafts",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/art_and_crafts_560x.jpg?v=1622641090",
           "colors": [
             "#53688A",
@@ -52,7 +52,7 @@
         },
         {
           "name": "Building & Construction",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc1OTc5OTM0Nw==",
+          "category": "building-construction-toys",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Building_and_Construction_Toys_84a63ea2-f631-4f2d-8b8b-e770cf00be09_560x.jpg?v=1598799222",
           "colors": [
             "#43506A",
@@ -61,7 +61,7 @@
         },
         {
           "name": "Babies Toys",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjU0MTEwNw==",
+          "category": "babies-toys",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/babies_toys_456x.jpg?v=1622641265",
           "colors": [
             "#12B58C",
@@ -70,7 +70,7 @@
         },
         {
           "name": "Educational Toys",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjczNzcxNQ==",
+          "category": "educational-toys",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Educational_Toys_560x.jpg?v=1622643676",
           "colors": [
             "#12B58C",
@@ -79,7 +79,7 @@
         },
         {
           "name": "Games & Puzzles",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2MDE1OTc5NQ==",
+          "category": "games-and-puzzles",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Games_Puzzles_Educational_toys_560x.jpg?v=1598798589",
           "colors": [
             "#12B58C",
@@ -88,7 +88,7 @@
         },
         {
           "name": "Sports & Outdoor",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjgwMzI1MQ==",
+          "category": "sports-outdoor",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Sports_Outdoor_d65ae682-1123-4a03-91a1-1ae93bde5aa6_560x.jpg?v=1622643855",
           "colors": [
             "#12B58C",
@@ -97,7 +97,7 @@
         },
         {
           "name": "Soft Toys",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjgzNjAxOQ==",
+          "category": "soft-toys",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Soft_Toys_560x.jpg?v=1622643948",
           "colors": [
             "#12B58C",
@@ -116,12 +116,12 @@
       "radius": 2,
       "items": [
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjQ3NTU3MQ==",
+          "category": "action-toys-figures",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/homepage-web-banner_x1024.jpg",
           "padding": 5
         },
         {
-          "product": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzcwMzE0MzQ3NQ==",
+          "product": "girls-toys",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/TOYS4ME-Special-Prices_web_banner_x1024.jpg",
           "padding": 5
         }
@@ -140,13 +140,13 @@
       "items": [
         {
           "name": "Girls Toys",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzcwMzE0MzQ3NQ==",
+          "category": "girls-toys",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/t/10/assets/pf-8ec94d26--Toys4MeTabGirls700x350px.jpg?v=1591695366",
           "padding": 5
         },
         {
           "name": "Boys Toys",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzcwMzExMDcwNw==",
+          "category": "boys-toys",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/t/10/assets/pf-838ec94d--Toys4MeTabBoys700x350px.jpg?v=1591695252",
           "padding": 5
         }
@@ -168,27 +168,27 @@
       "items": [
         {
           "name": "New Born & Baby",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODAyNzQ4MTEzOQ==",
+          "category": "new-born-toys-0-12-months",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/appnewborn.png?v=1625138603"
         },
         {
           "name": "Toddler",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODAyNzg3NDM1NQ==",
+          "category": "toddler-toys-1-2-years",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/apptoddler.png?v=1625138603"
         },
         {
           "name": "Pre Schooler",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODAyNzY0NDk3OQ==",
+          "category": "pre-schooler-toys-2-4-years",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/apppreschool.png?v=1625138603"
         },
         {
           "name": "Pre Teen",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODAyNzc3NjA1MQ==",
+          "category": "pre-teen-toys-4-12-years",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/apppreteen.png?v=1625138603"
         },
         {
           "name": "Teen",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODAyNzg0MTU4Nw==",
+          "category": "teen-toys-12-years",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/appteen.png?v=1625138603"
         }
       ]
@@ -197,7 +197,7 @@
       "name": "Pools Accessories",
       "image": "",
       "layout": "threeColumn",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1OTMxMTM5NjkxNQ==",
+      "category": "pools-accessories",
       "isSnapping": true
     },
     {
@@ -215,31 +215,31 @@
         {
           "name": "Bestway",
           "tag": "1",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1OTMxMTI5ODYxMQ==",
+          "category": "Bestway",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/bestway.jpg?v=12312"
         },
         {
           "name": "Barbie",
           "tag": "1",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODE2OTAxMQ==",
+          "category": "Barbie",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/Barbie_Dolls_large.jpg?v=1607332250"
         },
         {
           "name": "Keel Toys",
           "tag": "1",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODg4OTkwNw==",
+          "category": "Keel Toys",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/keel-toys.jpg?v=12312"
         },
         {
           "name": "Hasbro Gaming",
           "tag": "1",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODgyNDM3MQ==",
+          "category": "Hasbro Gaming",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/hasbro-gaming.jpg?v=12312"
         },
         {
           "name": "Lego",
           "tag": "1",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODk4ODIxMQ==",
+          "category": "Lego",
           "image": "https://cdn.shopify.com/s/files/1/0252/4158/3667/files/lego.jpg?v=12312"
         }
       ]
@@ -321,366 +321,366 @@
   },
   "CollectionList": [
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjQ0MjgwMw==",
+      "id": "arts-crafts",
       "name": "Arts & Crafts",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjk2NzA5MQ==",
+          "id": "clay-dough",
           "name": "Clay & Dough",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjk5OTg1OQ==",
+          "id": "craft-sets",
           "name": "Craft Sets",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzAzMjYyNw==",
+          "id": "diy-toys",
           "name": "DIY",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzA2NTM5NQ==",
+          "id": "draw-paint",
           "name": "Draw & Paint",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjQ3NTU3MQ==",
+      "id": "action-toys-figures",
       "name": "Action Toys & Figures",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzA5ODE2Mw==",
+          "id": "action-figures",
           "name": "Action Figures",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzEzMDkzMQ==",
+          "id": "action-pretend-play",
           "name": "Action Pretend Play",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTQ5ODY3NQ==",
+          "id": "blasters-guns",
           "name": "Blasters & Guns",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc1OTc5OTM0Nw==",
+      "id": "building-construction-toys",
       "name": "Building & Construction ",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODk4ODIxMQ==",
+          "id": "lego",
           "name": "Lego",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1ODc2ODU2MjIyNw==",
+          "id": "ecoiffier",
           "name": "Ecoiffier",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzE2MzY5OQ==",
+          "id": "sluban",
           "name": "Sluban",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQyMTg1ODg2Nw==",
+          "id": "mega-blocks",
           "name": "Mega Blocks",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2ODg3NjA4Mw==",
+      "id": "bikes-trikes-ride-ons",
       "name": "Bikes, Trikes & Ride-Ons",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzE5NjQ2Nw==",
+          "id": "bikes-trikes",
           "name": "Bikes & Trikes",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzIyOTIzNQ==",
+          "id": "electrical-scooters",
           "name": "Electrical Scooters",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzI2MjAwMw==",
+          "id": "ride-ons",
           "name": "Ride-ons",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzI5NDc3MQ==",
+          "id": "ride-ons-with-batteries",
           "name": "Ride-ons with Batteries",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzMyNzUzOQ==",
+          "id": "scooters",
           "name": "Scooters",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjU0MTEwNw==",
+      "id": "babies-toys",
       "name": "Babies' Toys",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzQyNTg0Mw==",
+          "id": "baby-ride-ons",
+          "name": "Baby Ride-Ons",
+          "status": 1
+        },
+        {
+          "id": "music-light-toys",
           "name": "Music & Light Toys",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MTQyNzMzMTEyMw==",
+          "id": "play-fun-vehicles",
           "name": "Play Fun Vehicles",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzQ5MTM3OQ==",
+          "id": "push-pull-toys",
           "name": "Push & Pull Toys",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzUyNDE0Nw==",
+          "id": "rattlers-teethers",
           "name": "Rattlers & Teethers",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjU3Mzg3NQ==",
+      "id": "collectibles",
       "name": "Collectibles",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzU4OTY4Mw==",
+          "id": "animal-collection-interactive-pets",
           "name": "Animal Collection & Interactive pets",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzY1NTIxOQ==",
+          "id": "collectible-characters",
           "name": "Collectable Charcters",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzY4Nzk4Nw==",
+          "id": "collectible-sets",
           "name": "Collectable Sets",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzcyMDc1NQ==",
-          "name": "Sruprise Collectable",
+          "id": "surprise-collectibles",
+          "name": "Surprise Collectable",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTUzMTQ0Mw==",
+      "id": "cars-vehicles-toys",
       "name": "Cars & Vehicle",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzE5NjQ2Nw==",
-          "name": "Bikes & Trikes",
+          "id": "cars-cars-playset",
+          "name": "Cars & Cars Playset",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzIyOTIzNQ==",
-          "name": "Electrical Scooters",
+          "id": "die-cast-cars",
+          "name": "Die Cast Cars",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzI2MjAwMw==",
-          "name": "Ride-ons",
-          "status": 1
-        },
-        {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzI5NDc3MQ==",
-          "name": "Ride-ons with Batteries",
-          "status": 1
-        },
-        {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMzMyNzUzOQ==",
-          "name": "Scooters",
+          "id": "rc-cars-and-trucks",
+          "name": "Rc Cars & Trucks",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjY3MjE3OQ==",
+      "id": "dolls-accessories",
       "name": "Dolls & Accessories",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2MDMyMzYzNQ==",
+          "id": "baby-dolls",
           "name": "Baby Dolls",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTY1NDA2Nw==",
+          "id": "doll-houses",
           "name": "Doll Houses",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTY4NjgzNQ==",
+          "id": "dolls-outfits-accessories",
           "name": "Dolls Outfits & Accessories",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTY2MjUxNQ==",
+          "id": "fashion-dolls",
           "name": "Fashion Dolls",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjcwNDk0Nw==",
+      "id": "dress-up-pretend-play",
       "name": "Dress Up & Pretend Play",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTcxOTYwMw==",
+          "id": "dress-up-customs",
           "name": "Dress Up & Customs",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTc1MjM3MQ==",
+          "id": "kitchen-sets",
           "name": "Kitchen Sets",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTc4NTEzOQ==",
+          "id": "role-play-sets",
           "name": "Role-Play Sets",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjczNzcxNQ==",
+      "id": "educational-toys",
       "name": "Educational Toys",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTgxNzkwNw==",
+          "id": "educational-games",
           "name": "Educational Games",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTg1MDY3NQ==",
+          "id": "electronic-games",
           "name": "Electronic Games",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTg4MzQ0Mw==",
+          "id": "stem-toys",
           "name": "STEM Toys",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2MDE1OTc5NQ==",
+      "id": "games-and-puzzles",
       "name": "Games & Puzzles",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTkxNjIxMQ==",
+          "id": "activity-games",
           "name": "Activity Games",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1OTU0MDY3NDYxMQ==",
+          "id": "board-games",
           "name": "Board Games",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTk0ODk3OQ==",
+          "id": "cards-games",
           "name": "Cards Games",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1OTU0MDQ0NTIzNQ==",
+          "id": "puzzles",
           "name": "Puzzles",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjgwMzI1MQ==",
+      "id": "sports-outdoor",
       "name": "Sports & Outdoor",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNTk4MTc0Nw==",
+          "id": "inflatable-pool",
           "name": "Inflatable Pool",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTA3MjY5MQ==",
+          "id": "inflatables-bouncers",
           "name": "Inflatables & Bouncers",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2ODk3NDM4Nw==",
+          "id": "playground-sets",
           "name": "Playground Sets",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2ODk0MTYxOQ==",
+          "id": "playhouses",
           "name": "Playhouses",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTAwNzE1NQ==",
+          "id": "pools-accessories",
+          "name": "Pool Accessories",
+          "status": 1
+        },
+        {
+          "id": "slides-swings",
           "name": "Slides & Swings",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNjAxNDUxNQ==",
+          "id": "swimming-pools",
           "name": "Swimming Pools",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1Nzc2OTEzODIyNw==",
+          "id": "trampolines",
           "name": "Trampolines",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNjA0NzI4Mw==",
+          "id": "water-parks",
           "name": "Water Parks",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjg2ODc4Nw==",
-      "name": " Toys For Adults",
+      "id": "toys-for-adults",
+      "name": "Toys For Adults",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNjA4MDA1MQ==",
+          "id": "adult-puzzles",
           "name": "Adults Puzzles",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNjExMjgxOQ==",
+          "id": "adult-rc-cars",
           "name": "Adults RC Cars",
           "status": 1
         },
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyNjE3ODM1NQ==",
+          "id": "adults-lego",
           "name": "Adults Lego",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MDUyMjgzNjAxOQ==",
+      "id": "soft-toys",
       "name": "Soft Toys",
       "subCollection": [
         {
-          "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NzY2ODE1NDQxOQ==",
+          "id": "wooden-toys",
           "name": "Wooden Toys",
           "status": 1
         }
       ]
     },
     {
-      "id": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2MjYwNzg5MDQ4Mw==",
+      "id": "accessories-batteries",
       "name": "Accessories & Batteries"
     }
   ]
